@@ -1,15 +1,17 @@
-## Hi there 👋
-<!--
-**lp709/lp709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Leandro Jesus 👋
 
-Here are some ideas to get you started:
+💻 Software Development Student  
+🚀 Learning Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+
+- Java
+- JavaScript
+- HTML & CSS
+- Node.js
+- Git & GitHub
+- Linux
+
+### Goals
+
+Build real projects, improve my skills, and become a Full-Stack Developer.
